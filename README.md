@@ -67,4 +67,5 @@ jupyter notebook
 ---
 
 **Curso:** Introdução à Análise e Visualização de Dados com Python
+
 **Professores:** Ana Luiza Martins Karl, Daniel Correa da Silva e Felipe Rimes Ferreira Casais
